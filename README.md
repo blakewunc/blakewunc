@@ -1,6 +1,6 @@
 ### Hi, I'm Blake 👋
 
-I lead Implementation Services at **Intapp DealCloud**, where my 12 person team deploys enterprise SaaS for capital markets firms. On nights and weekends I build products with AI, taking ideas from customer problem to shipped software.
+I lead Implementation Services at **Intapp DealCloud**, where my team deploys enterprise SaaS for capital markets firms. On nights and weekends I build products with AI, taking ideas from customer problem to shipped software.
 
 **What I bring**
 - **Product thinking:** MBA from UNC Kenan-Flagler (Product Management, Business Analytics, Technology & Innovation). Built a product analytics program from scratch as a PM intern at DebtBook.
